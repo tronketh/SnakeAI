@@ -1,0 +1,14 @@
+*.py[cod]
+.vscode
+.idea
+env/**
+venv/**
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+*.ipynb
+*.ipynb_checkpoints
+
+ai/agent/model/saved_model
