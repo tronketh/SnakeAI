@@ -15,3 +15,6 @@ A simple AI Reinforcement Learning project to control snake game
 
 ## Tweaking the AI
 You can tweak the AI constants to try out or better the AI training, goto SnakeAI/ai/constants.py
+
+## Credits
+Credit to [Patrick Loeber](https://github.com/python-engineer) for creating easy tutorial. Reference his code [here](https://github.com/python-engineer/snake-ai-pytorch)
